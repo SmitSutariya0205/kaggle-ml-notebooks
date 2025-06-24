@@ -30,4 +30,5 @@ All datasets used are from [Kaggle](https://www.kaggle.com) and are publicly ava
 **Smit Sutariya**  
 B.Tech CSE @ MIT-WPU | AI/ML Enthusiast  
 🔗 [LinkedIn](https://www.linkedin.com/in/smitsutariya)  
-📫 smitsutariya0205@gmail.com
+📫 ssutariya8801@gmail.com
+
