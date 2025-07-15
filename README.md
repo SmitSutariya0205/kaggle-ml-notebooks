@@ -90,7 +90,7 @@ $ pip install -r requirements.txt
 B.Tech Computer Science (MIT‑WPU)
 AI/ML Enthusiast
 
-* 🌐 LinkedIn: [https://www.linkedin.com/in/smitsutariya](https://www.linkedin.com/in/smitsutariya)
+* 🌐 LinkedIn: https://www.linkedin.com/in/smit-sutariya-1720562b2
 * 📫 Email: [ssutariya8801@gmail.com](mailto:ssutariya8801@gmail.com)
 
 ---
